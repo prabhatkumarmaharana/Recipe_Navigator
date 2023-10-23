@@ -17,6 +17,8 @@ You're one-stop for recipes, RecipeNavigator is the best app for any type of coo
 
 React.js, React Router, Tailwind CSS
 
+## Hosted Link-  https://recipe-navigator.vercel.app/
+
 ### Conclusion:
 
 A recipe web application based not only on a list of recipes with ingredients but a database created by food lovers, for food lovers. Search through thousands of the best recipes worldwide and find what you're looking for without leaving your daily routine Give it a go!
